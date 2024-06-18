@@ -5,7 +5,7 @@
   "main": "bot.js",
   "dependencies": {
     "axios": "^0.21.1",
-    "discord.js": "^12.5.1",
+    "discord.js": "^13.14.0",
     "qs": "^6.9.4",
     "sqlite3": "^5.0.0"
   },
