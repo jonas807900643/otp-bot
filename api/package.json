@@ -21,7 +21,7 @@
     "twilio": "^3.54.1",
     "chai": "^4.2.0",
     "chai-http": "^4.3.0",
-    "mocha": "^8.2.1"
+    "mocha": "^10.3.0"
   },
   "devDependencies": {},
   "keywords": [],
